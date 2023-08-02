@@ -1,4 +1,4 @@
-server = 'intel1.database.windows.net'
-ddatabase = 'intellipaat'
-username = 'intel'
-password = 'Paat@123'
+server = 'mysqlserver18.database.windows.net'
+ddatabase = 'mysqlserver18'
+username = 'sqladmin'
+password = 'admin@123'
